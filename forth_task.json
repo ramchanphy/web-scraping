@@ -1,0 +1,15 @@
+{
+    "movie": "Rocketry: The Nambi Effect",
+    "director": [
+        "Madhavan"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNTk2MjUxMjEtZDU5OC00MzYxLTkwMWYtMGM5YWQ0MWMyN2I1XkEyXkFqcGdeQXVyMTE0MzY0NjE1._V1_.jpg",
+    "description": "Based on the life of Indian Space Research Organization scientist Nambi Narayanan, who was framed for being a spy and arrested in 1994. Though free, he continues to fight for justice against the officials who falsely implicated him.",
+    "language": "English",
+    "genre": [
+        "Biography",
+        "Drama"
+    ],
+    "Runtime": "PT2H37M",
+    "country": "india"
+}

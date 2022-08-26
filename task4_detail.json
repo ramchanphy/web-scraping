@@ -1,0 +1,108 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Movie",
+  "url": "/title/tt9263550/",
+  "name": "Rocketry: The Nambi Effect",
+  "image": "https://m.media-amazon.com/images/M/MV5BNTk2MjUxMjEtZDU5OC00MzYxLTkwMWYtMGM5YWQ0MWMyN2I1XkEyXkFqcGdeQXVyMTE0MzY0NjE1._V1_.jpg",
+  "description": "Based on the life of Indian Space Research Organization scientist Nambi Narayanan, who was framed for being a spy and arrested in 1994. Though free, he continues to fight for justice against the officials who falsely implicated him.",
+  "review": {
+    "@type": "Review",
+    "itemReviewed": {
+      "@type": "CreativeWork",
+      "url": "/title/tt9263550/"
+    },
+    "author": {
+      "@type": "Person",
+      "name": "Siddharthsinha-28"
+    },
+    "dateCreated": "2022-07-01",
+    "inLanguage": "English",
+    "name": "Every Indian should watch &amp; get inspired",
+    "reviewBody": "First and foremost I didn&apos;t even know about Nambi Narayanan until movie was announced. What a shame. We need to seriously look at what we have been learning at schools and academics.\n\nThis movie is a must watch for all Indians to know how a true patriotic has been stripped off all the achievements just on the basis of fake case. Madhvan is absolute brilliant and honest with his performance and so does the supporting cast. They have tried to inculcate all the major happenings of his life and journey and the setback.\n\nKudos to entire team who have a winner in their hand. This movie should be encouraged and youth should get inspired to serve the country. Had Nambi sir didn&apos;t face those fake cases he would have been enjoying the same reputation as Dr Kalam.\n\nA man who is no less than a James Bond and did all this for the country and its people. Hail Nambi Sir!",
+    "reviewRating": {
+      "@type": "Rating",
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": 36851,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 9
+  },
+  "contentRating": "UA",
+  "genre": [
+    "Biography",
+    "Drama"
+  ],
+  "datePublished": "2022-07-01",
+  "keywords": "police,rocket,rocket scientist,isro,shahrukh khan",
+  "trailer": {
+    "@type": "VideoObject",
+    "name": "Official Trailer",
+    "embedUrl": "/video/imdb/vi3653812761",
+    "thumbnail": {
+      "@type": "ImageObject",
+      "contentUrl": "https://m.media-amazon.com/images/M/MV5BN2ExOGM0YmUtODg0Mi00N2NiLTk3NzktN2M3M2Y5NjM5MjhiXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+    },
+    "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BN2ExOGM0YmUtODg0Mi00N2NiLTk3NzktN2M3M2Y5NjM5MjhiXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+    "description": ""
+  },
+  "actor": [
+    {
+      "@type": "Person",
+      "url": "/name/nm0534856/",
+      "name": "Madhavan"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm0801264/",
+      "name": "Simran"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm0438496/",
+      "name": "Rajit Kapoor"
+    }
+  ],
+  "director": [
+    {
+      "@type": "Person",
+      "url": "/name/nm0534856/",
+      "name": "Madhavan"
+    }
+  ],
+  "creator": [
+    {
+      "@type": "Organization",
+      "url": "/company/co0569011/"
+    },
+    {
+      "@type": "Organization",
+      "url": "/company/co0721263/"
+    },
+    {
+      "@type": "Organization",
+      "url": "/company/co0333521/"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm0534856/",
+      "name": "Madhavan"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm0536705/",
+      "name": "Anant Mahadevan"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm10411843/",
+      "name": "Rahul Pandey"
+    }
+  ],
+  "duration": "PT2H37M"
+}
